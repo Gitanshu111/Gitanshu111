@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Some Projects.**
 
-- 🌱 I’m currently learning **Kotlin , NodeJs**
+- 🌱 I’m currently learning **ReactJs , NodeJs**
 
 - 👯 I’m looking to collaborate on **open source projects and learn new technologies.**
 
