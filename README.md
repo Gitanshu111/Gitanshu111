@@ -17,13 +17,13 @@
 <a href="https://www.hackerearth.com/gitanshu kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="gitanshu kumar" height="30" width="40" /></a>
 </p>
 <p style="text-align: justify; line-height: 1.5; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">
-            As a BCA student, I am passionate about technology and its
+            As a MCA student, I am passionate about technology and its
              potential to transform the world. I am currently pursuing
-              my degree in Computer Applications from Chandigarh University
+              my degree in Computer Applications from SRM Institute of Science and Technology 
             , where I have been developing my skills in programming, database
              management, and software development.<br>
 
-One of my biggest strengths as a BCA student is my ability to quickly adapt
+One of my biggest strengths as a MCA student is my ability to quickly adapt
  to new technologies and software development methodologies. 
 I have always been fascinated by the latest trends in technology and I am 
 constantly seeking to learn new skills and techniques that can help me become 
@@ -54,7 +54,7 @@ I am highly motivated to work on projects that address social issues and I hope 
 contribute to the development of innovative software solutions that can help to
  improve people's lives.<br>
 
-In conclusion, I am a highly motivated and passionate BCA student with a strong 
+I am a highly motivated and passionate MCA student with a strong 
 commitment to excellence and innovation. 
 I am eager to learn and develop my skills further, and I look forward to the
  challenges and opportunities that lie ahead in my career as a software developer.<br>
